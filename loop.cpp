@@ -12,4 +12,4 @@ int main(){
     cout<<endl;
     return 0;
 }
-//just fjfa daily rjfhjuthjdfijnofffjhffofjf
+//just fjfa daily rjfhjuthjdfijnofffjhffjhjofjf
