@@ -12,4 +12,4 @@ int main(){
     cout<<endl;
     return 0;
 }
-//just a daily rutinofkfo
+//just a daily ruthjdfinofkfo
