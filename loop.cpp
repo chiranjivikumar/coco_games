@@ -12,4 +12,4 @@ int main(){
     cout<<endl;
     return 0;
 }
-//just a daily rutine
+//just a daily rutinoo
