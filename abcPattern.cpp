@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;//llgl
 
 int main(){
     int n=4;
