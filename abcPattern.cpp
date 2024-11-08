@@ -1,6 +1,6 @@
 
 #include <iostream>
-using namespace std;//llgllhjlgkglglghlll
+using namespace std;//llgllhjlgkglglghlllkk
 
 int main(){
     int n=4;
