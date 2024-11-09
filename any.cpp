@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int n=4;///uiyop[[oipuiop
-//piopiopl;'kl[
+//piopiopl;'kl[ioyyuio
     o;pi;//upoupu[jokyuip
     for(int i=0;i<n;i++){
         char ch = 'A';
