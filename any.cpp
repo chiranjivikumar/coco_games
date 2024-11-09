@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int n=4;///uiyop[[oipuiop
+    int n=4;///uiyop[[oipuiopfjhfjh
 //piopiopl;'kl[ioyyuioioyuiohjfgjh
     o;pi;//upoupu[jokyuipioyuio
     for(int i=0;i<n;i++){
