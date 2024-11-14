@@ -1,6 +1,6 @@
 uopup'k'\\//jiop
 #include <iostream>
-using namespace std;//llgllhjlgkglglghlllkk[fdsggssdfgdsgsdfgsdgs
+using namespace std;//llgllhjlgkglglghlllkk[fdsggssdfgdsgsdfgsdgs//kjlghl
 
 int main(){
     int n=4;
