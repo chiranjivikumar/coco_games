@@ -2,7 +2,7 @@ ggkuopup'k'\\//jiop
 #include <iostream>
 using namespace std;//llgllhjlgkglglghlllkk[fdsggssdfgdsgsdfgsdgs//kjlghlgkghkjkgkgjkghkjghkjgghjkghkgkgkgkghxchbxfghghdsfhgsdfghsd
 gkkghjk
-int main(){
+int main(){fgsdfg
     int n=4;
     for(int i=0;i<n;i++){
         char ch = 'A';
