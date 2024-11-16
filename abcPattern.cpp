@@ -1,6 +1,6 @@
 ggkuopup'k'\\//jiop
 #include <iostream>
-using namespace std;//llgllhjlgkglglghlllkk[fdsggshdfghsdfgdsgsdfgshjfdgs//kjlghlgkgfgsdfghghkgkhfggsgsghkjkgkgjkgsfgghkjggfdhdfhgdfhghkjgghjkghkgkgkgkghxchbxfghghdsfhgsdfghsd
+using namespace std;//llgllhjlgkglglghlllkk[fdsggshdfghsdfgdsgsdfgshjfdgs/hdfh/kjlghlgkgfgsdfghghkgkhfggsgsghkjkgkgjkgsfgghkjggfdhdfhgdfhghkjgghjkghkgkgkgkghxchbxfghghdsfhgsdfghsd
 gkkghjk
 int main(){fgsdfgfgsdg
     int n=4;
