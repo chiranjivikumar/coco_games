@@ -1,7 +1,7 @@
 ggkuopup'k'\\//jiop
 #include <iostream>
 using namespace std;//llgllhjlgkglglghlllkk[fdsggshdfghsdfgdsgsdfgshjfghdgs/hghjkgdfh/kjlghlggjdgjkgfgsdfghghkgkhfggsgsghkjkgkgjkgsfgghkjggfdhdfhgdfhghkjgghjkghkgkgkgkghxchbxfghghdsfhgsdfghsd
-gkkghjk
+gkkghjkjkhk
 int main(){fgsdfgfgsdg
     int n=4;
     for(int i=0;i<n;i++){
